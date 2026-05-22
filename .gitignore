@@ -3,3 +3,8 @@ world/hello.dSYM/Contents/Resources/Relocations/aarch64/hello.yml
 world/hello.dSYM/Contents/Info.plist
 world/hello.dSYM/Contents/Resources/DWARF/hello
 world/hello
+me/hello
+.gitignore
+me/hello.dSYM/Contents/Resources/DWARF/hello
+me/hello.dSYM/Contents/Resources/Relocations/aarch64/hello.yml
+me/hello.dSYM/Contents/Info.plist
