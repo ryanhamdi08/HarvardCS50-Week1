@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ryanhamdi/Documents/Developer/CS50-Coursework/CS50-Week1/mario-more/mario'
+relocations:     []
+...
